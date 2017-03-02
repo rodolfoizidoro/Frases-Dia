@@ -12,6 +12,9 @@
 		BC6DDA4D1E67860C007D2ECB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC6DDA4B1E67860C007D2ECB /* Main.storyboard */; };
 		BC6DDA4F1E67860C007D2ECB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC6DDA4E1E67860C007D2ECB /* Assets.xcassets */; };
 		BC6DDA521E67860C007D2ECB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC6DDA501E67860C007D2ECB /* LaunchScreen.storyboard */; };
+		BC6DDA5C1E67863C007D2ECB /* aspas-direita.png in Resources */ = {isa = PBXBuildFile; fileRef = BC6DDA591E67863C007D2ECB /* aspas-direita.png */; };
+		BC6DDA5D1E67863C007D2ECB /* aspas-esquerda.png in Resources */ = {isa = PBXBuildFile; fileRef = BC6DDA5A1E67863C007D2ECB /* aspas-esquerda.png */; };
+		BC6DDA5E1E67863C007D2ECB /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = BC6DDA5B1E67863C007D2ECB /* logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		BC6DDA4E1E67860C007D2ECB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC6DDA511E67860C007D2ECB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC6DDA531E67860C007D2ECB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC6DDA591E67863C007D2ECB /* aspas-direita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "aspas-direita.png"; path = "../../../../Downloads/Curso Ios/imagens-app-frases-do-dia/aspas-direita.png"; sourceTree = "<group>"; };
+		BC6DDA5A1E67863C007D2ECB /* aspas-esquerda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "aspas-esquerda.png"; path = "../../../../Downloads/Curso Ios/imagens-app-frases-do-dia/aspas-esquerda.png"; sourceTree = "<group>"; };
+		BC6DDA5B1E67863C007D2ECB /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = "../../../../Downloads/Curso Ios/imagens-app-frases-do-dia/logo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 		BC6DDA461E67860C007D2ECB /* Frases Dia */ = {
 			isa = PBXGroup;
 			children = (
+				BC6DDA591E67863C007D2ECB /* aspas-direita.png */,
+				BC6DDA5A1E67863C007D2ECB /* aspas-esquerda.png */,
+				BC6DDA5B1E67863C007D2ECB /* logo.png */,
 				BC6DDA471E67860C007D2ECB /* AppDelegate.swift */,
 				BC6DDA491E67860C007D2ECB /* ViewController.swift */,
 				BC6DDA4B1E67860C007D2ECB /* Main.storyboard */,
@@ -125,7 +134,10 @@
 			files = (
 				BC6DDA521E67860C007D2ECB /* LaunchScreen.storyboard in Resources */,
 				BC6DDA4F1E67860C007D2ECB /* Assets.xcassets in Resources */,
+				BC6DDA5E1E67863C007D2ECB /* logo.png in Resources */,
 				BC6DDA4D1E67860C007D2ECB /* Main.storyboard in Resources */,
+				BC6DDA5C1E67863C007D2ECB /* aspas-direita.png in Resources */,
+				BC6DDA5D1E67863C007D2ECB /* aspas-esquerda.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
